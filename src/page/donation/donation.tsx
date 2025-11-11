@@ -40,8 +40,6 @@ export function Donation() {
         </tbody>
       </table>
       <h3>感谢您捐赠！</h3>
-
-
     </div>
 
   )
