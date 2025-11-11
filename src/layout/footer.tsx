@@ -11,7 +11,6 @@ export const FooterContent = () => {
             <div style={{ maxWidth: "90%", margin: "0 auto" }}>
                 <p ><strong>友 情 链 接</strong></p>
                 <p >
-                    <a href="https://blog.hotpe.top/" target="_blank" className="class-link" rel="noopener" >VirtualHotBar</a> |
                     <a href="https://www.hotpe.top/" target="_blank" className="class-link" rel="noopener" >HotPE工具箱</a> |
                     <a href="https://sysri.cn/" target="_blank" className="class-link" rel="noopener" > SysRi</a> |
                     <a href="https://www.netmount.cn/" target="_blank" className="class-link" rel="noopener" > NetMount</a> |
@@ -27,7 +26,7 @@ export const FooterContent = () => {
                 <div style={{ borderTop: '1px solid rgba(0, 0, 0, 0.1)', padding: '10px 10px 10px', textAlign: 'center' }}>
 {/*                     <a href="https://beian.miit.gov.cn/" target="_blank" className="class-link" rel="noopener" >蜀ICP备2023001640号-1</a>
                     <br /> */}
-                    © 2019-Present <a href="https://blog.hotpe.top/" target="_blank" className="class-link" rel="noopener" >VirtualHotBar</a>
+                    © 2019-Present <a href="https://hefung.github.io/" target="_blank" className="class-link" rel="noopener" >hefung</a>
                 </div>
             </div></div>
     )
